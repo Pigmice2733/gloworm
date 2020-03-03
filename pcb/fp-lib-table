@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name led-ring)(type KiCad)(uri /home/franklin/src/led-ring)(options "")(descr ""))
+  (lib (name Connectors_Anderson)(type KiCad)(uri ${KIPRJMOD}/Connectors_Anderson.pretty-master)(options "")(descr ""))
+)
